@@ -13,7 +13,7 @@ This Repository contains files for the digital twins of Robotic manipulators lik
    and comparing MATLAB results with pymycobot outputs. All tasks are documented, and a video demonstration is included.
    
 3. **MyCobot Pro 600** (Lab 3)
-   Digital Twin
+   Digital Twin: 
    I have completed the kinematic diagram and deriving all homogeneous transformation matrices for the MyCobot Pro 600.
    Forward kinematics was solved in MATLAB to determine the end-effector position for given joint angles. The CAD model of the robot was successfully imported into MATLAB with joints added,
    and forward kinematic analysis was performed using Simscape and the Robotics Toolbox. The angles collected from the MyCobot Pro 600 were validated to ensure
@@ -21,7 +21,7 @@ This Repository contains files for the digital twins of Robotic manipulators lik
    https://github.com/Robotics-and-Dynamical-Systems-Lab/RAS545/blob/fall2024/Lab3/instructions.md
    
 4. **Fanuc LR 200iD 14L** (Assignment 3)
-   Forward and inverse kinematics were derived, and the homogeneous transformations were calculated.
+   Digital Twin: Forward and inverse kinematics were derived, and the homogeneous transformations were calculated.
    MATLAB and Simulink were used to load the predefined FANUC 200iD robot model. Workspace analysis was performed using the Robotics Systems Toolbox,
    and both forward and inverse kinematics were implemented as per the requirements.
 
