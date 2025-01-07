@@ -1,5 +1,5 @@
 # manipulator_digital_twins
-This Repository contains files for the digital twins of Robotic manipulators like myCobot 600 pro, myCobot 280, Fanuc LR 200iD, simulated using MATLAB.
+This Repository contains files for the digital twins of Robotic manipulators simulated using MATLAB as a part of RAS-545 course at ASU.
 
 1. **MyCobot 280** (Lab 1)
    Digital Twin:
