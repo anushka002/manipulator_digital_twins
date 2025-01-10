@@ -2,33 +2,34 @@
 This Repository contains files for the digital twins of Robotic manipulators simulated using MATLAB as a part of RAS-545 course at ASU.
 
 1. **MyCobot 280** (Lab 1)
-   Digital Twin:
-   I have completed the lab report on the MyCobot 280. It includes an introduction to the MyCobot 280, a detailed setup guide, a description of the lab process,
-   and a conclusion summarizing the learning experience. A demonstration video has also been submitted as part of the assignment.
+   _Digital Twin :-_
+   Contains lab report on the MyCobot 280. It includes an introduction to the MyCobot 280, a detailed setup guide, a description of the lab process,
+   caliberation and control of robot arm, and a conclusion summarizing the learning experience. A demonstration video has also been submitted as part of the assignment.
    
 2. **MyCobot 280** (Lab 2)
-   Digital Twin:
-   I have completed deriving the homogeneous transformation matrices for the MyCobot 280 M5,
-   performing symbolic matrix multiplication in MATLAB to compute Final Homogeneous Transforma matrix, substituting joint angles for the end-effector's position and orientation,
+   _Digital Twin :-_
+   Contains the homogeneous transformation matrices for the MyCobot 280 M5, performing symbolic matrix multiplication in MATLAB to compute
+   Final Homogeneous Transforma matrix, substituting joint angles for the end-effector's position and orientation,
    and comparing MATLAB results with pymycobot outputs. All tasks are documented, and a video demonstration is included.
    
-3. **MyCobot Pro 600** (Lab 3)
-   Digital Twin: 
-   I have completed the kinematic diagram and deriving all homogeneous transformation matrices for the MyCobot Pro 600.
+4. **MyCobot Pro 600** (Lab 3)
+   _Digital Twin :-_
+   Contains the kinematic diagram and homogeneous transformation matrices for MyCobot Pro 600.
    Forward kinematics was solved in MATLAB to determine the end-effector position for given joint angles. The CAD model of the robot was successfully imported into MATLAB with joints added,
    and forward kinematic analysis was performed using Simscape and the Robotics Toolbox. The angles collected from the MyCobot Pro 600 were validated to ensure
    the digital twin reached the same end-effector position. A 3-minute video demonstrating MATLAB simulation, and robot validation has been created.
    https://github.com/Robotics-and-Dynamical-Systems-Lab/RAS545/blob/fall2024/Lab3/instructions.md
    
-4. **Fanuc LR 200iD 14L** (Assignment 3)
-   Digital Twin: Forward and inverse kinematics were derived, and the homogeneous transformations were calculated.
+5. **Fanuc LR 200iD 14L** (Assignment 3)
+   _Digital Twin :-_
+   Forward and inverse kinematics were derived, and the homogeneous transformations were calculated.
    MATLAB and Simulink were used to load the predefined FANUC 200iD robot model. Workspace analysis was performed using the Robotics Systems Toolbox,
    and both forward and inverse kinematics were implemented as per the requirements.
 
 9. **MyCobot Pro 600** (Lab 4)
-   Digital Twin:
-   I have completed the assigned tasks for the Cobot Pro 600, including deriving its homogeneous transformations, creating a digital twin,
-   and programming the robot using socket programming to execute commands. The AI kit camera was connected, ArUco markers were placed in the workspace,
+   _Digital Twin :-_
+   Contains derivation of homogeneous transformations, creating a digital twin,
+   and programming of robot using socket programming to execute commands. The AI kit camera was connected, ArUco markers were placed in the workspace,
    and the robot path was planned and executed in a straight line between the markers, verified through the digital twin.
    https://github.com/Robotics-and-Dynamical-Systems-Lab/RAS545/blob/fall2024/Lab4/instructions.md
 
